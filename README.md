@@ -64,6 +64,8 @@ const App = () => {
 export default App;
 ```
 
+![Imgur](https://i.imgur.com/sEOFZH8.gifv)
+
 ## Feedback
 
 I would appreciate any feedback you have on this custom hook!
