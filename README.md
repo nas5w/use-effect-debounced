@@ -64,7 +64,7 @@ const App = () => {
 export default App;
 ```
 
-![Imgur](https://i.imgur.com/sEOFZH8.gifv)
+![Imgur](https://i.imgur.com/sEOFZH8.gif)
 
 ## Feedback
 
